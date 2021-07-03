@@ -1,0 +1,201 @@
+h1,h2,h3,h4,h5{
+    padding: 0;
+    margin: 0;
+}
+html,body{
+    font-family: 'Open Sans', sans-serif;
+   
+}
+
+.hero_section{
+
+    width: 75%;
+    margin: 0 auto;
+    height: 500px;
+}
+
+.half_width{
+    width: 40%;
+    
+    float: left;
+    padding-top:10% ;
+}
+.half_width2{
+    width: 40%;
+    float: left;
+    margin-left: 20%;
+}
+.half_width2 img {
+    width: 100%;
+}
+
+
+.half_width h3{
+    font-size: 30px;
+    font-weight: 500;
+
+}
+
+.half_width h2{
+    font-size: 60px;
+    color: #EB4B79;
+    text-transform: capitalize;
+    margin-bottom: 40px;
+}
+
+.half_width  p{
+    color: #7F7F7F;
+    font-size: 15px;
+    line-height: 25px;
+    margin-bottom: 40px;
+    font-weight: 500;
+}
+
+.half_width .btn{
+    font-size: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 500;
+    background-image: linear-gradient(45deg, #EC4F93,#ED4B70);
+    padding: 6px 20px;
+    color: white;
+    border-radius: 5px;
+}
+
+
+
+
+/* start biographi ================================= */
+
+.wraper{
+    width: 80%;
+    height: 650px;
+    margin: 0 auto;
+    margin-top: 100px;
+    
+}
+.left_site_img img{
+    width: 100%;
+}
+.left_site_img{
+    width: 40%;
+    float: left;
+    margin-right: 15%;
+}
+
+
+/* My latest work  ================== */
+
+.wraper2{
+    width: 80%;
+    height: 400px;
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+}
+.wraper2 h2{
+    font-size: 40px;
+    color: #24282C;
+    margin-bottom: 50px;
+}
+.image_list img{
+
+    width: 260px;
+    padding: 10px 45px;
+}
+
+
+/* what clint are say  ================================== */
+
+
+
+
+.what_clint_say {
+    width: 80%;
+    height: 600px;
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.what_clint_say h2{
+    font-size: 40px;
+    color: #24282C;
+    margin-bottom: 60px;
+}
+
+
+.what_clint_say .content h3{
+    font-size: 20px;
+    color: #44484B;
+    
+}
+
+.what_clint_say .content > span{
+    font-weight: 400;
+    font-size: 15px;
+    margin-bottom: 50px;
+    display: block;
+}
+
+.what_clint_say .content p{
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 100px;
+}
+
+.what_clint_say .content .gmail{
+    background-image:linear-gradient(45deg, #EC5093,#ED4B6E) ;
+    width: 600px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    padding: 40px 10px;
+    border-radius: 5px;
+    
+    
+}
+
+.what_clint_say .content .gmail span{
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.what_clint_say .content .gmail h2{
+    font-size: 30px;
+    color: white;
+    font-weight: 600;
+    margin: 0;
+}
+
+
+
+/* staert footer Section  =================================== */
+
+
+footer.copy_right span{
+    display: inline-block;
+}
+
+
+footer.copy_right {
+    text-align: center;
+}
+footer.copy_right span{
+    display: inline-block;
+    border: 1px solid black;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    line-height: 20px;
+    font-size: 13px;
+}
+
+footer.copy_right h4{
+    font-size: 18px;
+    font-weight: 500;
+}
+
